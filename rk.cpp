@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
     int a=6,b=7;
-    cout<<a+b;
+    cout<<a+b<<"hurrah";
     return 0;
 }
